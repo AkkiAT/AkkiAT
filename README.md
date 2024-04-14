@@ -1,4 +1,6 @@
 ##Hello world
+
+"From mastering the ABCs of coding and mathematics over the past 16 years to pioneering a career transition into the dynamic realms of data science and machine learning in the last 4 years, our journey is your blueprint for success!"
 <h1 align="center">Hi 👋, I'm Ajay Tiwari</h1>
 <h3 align="center">A passionate Data Scientists from India</h3>
 
